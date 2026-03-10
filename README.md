@@ -1,28 +1,65 @@
-# Hi 👋, I'm hong li
+# Hi, I'm Hong Li 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Atnagnohil" alt="Atnagnohil" /></a> </p>
+Machine Learning & Deep Learning Researcher
 
-- 🔭 I'm currently working on **机器学习/深度学习/分子动力学**
+## About Me
 
-- 🌱 I'm currently learning **电子信息工程/LLM/AI**
+I'm currently working on machine learning, deep learning, and molecular dynamics simulation. My research interests include electronic information engineering, large language models, and AI systems.
 
-- 👯 I'm looking to collaborate on **LLM/AI**
+- 🔭 Currently working on: **Machine Learning/Deep Learning/Molecular Dynamics**
+- 🌱 Currently learning: **Electronic Information Engineering/LLM/AI**
+- 👯 Looking to collaborate on: **LLM/AI projects**
+- 💬 Ask me about: **Algorithms, Programming**
+- 📫 Contact: **lihong411527@gmail.com**
 
-- 💬 Ask me about **算法，代码**
+## Featured Projects
 
-- 📫 How to reach me **lihong411527@gmail.com**
+### 🚀 [nano-autograd](https://github.com/Atnagnohil/nano-autograd)
+A lightweight automatic differentiation library built from scratch. This project demonstrates the core concepts behind modern deep learning frameworks like PyTorch and TensorFlow.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Atnagnohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Atnagnohil" height="30" width="40" /></a>
+**Features:**
+- Automatic gradient computation
+- Support for basic neural network operations
+- Educational implementation of backpropagation
+- Clean, readable codebase for learning purposes
+
+## Technical Skills
+
+**Programming Languages:**
+- Python, C++, MATLAB
+- R, Java, JavaScript, SQL
+
+**Machine Learning & AI:**
+- PyTorch, TensorFlow, Scikit-learn
+- NumPy, Pandas, Matplotlib
+- Natural Language Processing
+- Computer Vision
+
+**Research & Development:**
+- Molecular Dynamics Simulation
+- Statistical Analysis
+- Algorithm Design
+- High-Performance Computing
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atnagnohil&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atnagnohil&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atnagnohil&show_icons=true&locale=en&layout=compact" alt="Atnagnohil" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atnagnohil" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atnagnohil&show_icons=true&locale=en" alt="Atnagnohil" /></p>
+## Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atnagnohil&" alt="Atnagnohil" /></p>
+- 📧 Email: lihong411527@gmail.com
+- 💻 GitHub: [@Atnagnohil](https://github.com/Atnagnohil)
 
+---
+
+*Interested in machine learning, deep learning, and building intelligent systems.*
