@@ -17,7 +17,3 @@ I'm Hong Li, a researcher focused on machine learning and deep learning. I work 
 
 **[nano-autograd](https://github.com/Atnagnohil/nano-autograd)** - A lightweight automatic differentiation library built from scratch in ~200 lines of Python.
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atnagnohil&show_icons=true&theme=default" />
-</p>
