@@ -17,3 +17,5 @@ I'm Hong Li, a researcher focused on machine learning and deep learning. I work 
 
 **[nano-autograd](https://github.com/Atnagnohil/nano-autograd)** - A lightweight automatic differentiation library built from scratch in ~200 lines of Python.
 
+**[ObsidianBot](https://github.com/Atnagnohil/ObsidianBot)** - A production-ready, scalable QQ bot framework with enterprise-grade architecture and AI-powered conversations..
+
